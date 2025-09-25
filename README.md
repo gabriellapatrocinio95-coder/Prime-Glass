@@ -1,5 +1,3 @@
-# Prime-Glass
-Site institucional da Prime Glass — vidros e esquadrias em Goiânia
 <!doctype html>
 <html lang="pt-BR">
 <head>
